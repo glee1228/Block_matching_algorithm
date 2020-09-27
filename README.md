@@ -20,15 +20,21 @@ python main.py
 
 ## Example
 
+**Figure 1.** anchor frame (left) and reference frame (right)
+
 previous frame(anchor frame) | current frame(reference frame) 
 ---- | ---- 
 ![prev_frame](https://github.com/glee1228/Block_matching_algorithm/blob/master/result/20200927171519/prev.png) | ![current_frame](https://github.com/glee1228/Block_matching_algorithm/blob/master/result/20200927171519/cur.png )
 
+
+**Figure 2.** Block motion estimation Results
 interpolated frame(predicted frame) | motion field
 ---- | ---- 
 |![interpolated](https://github.com/glee1228/Block_matching_algorithm/blob/master/result/20200927171519/interpolated.png) | ![motion_vector](https://github.com/glee1228/Block_matching_algorithm/blob/master/result/20200927171519/mv_drawing.png)
 
 <br/>
+
+**Table 1.** PSNR and reference time according to Search Window and Search Method
 
 Block size(pixel)	| Pixel accuracy	| Search range(pixel) |	Search method	 | PSNR(db) |	Inference Time(sec)
 ---- | ---- | ---- | ---- | ----  |----
