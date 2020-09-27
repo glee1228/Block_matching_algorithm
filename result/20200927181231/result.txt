@@ -1,0 +1,11 @@
+TIME : 20200927181231
+RUNNING TIME : 42.775640 
+PREV FRAME PATH : D:\BlockMatching_video_intp\data\frame\frame1226.jpg
+REFERENCE FRAME PATH : D:\BlockMatching_video_intp\data\frame\frame1228.jpg
+FRAME SIZE(H,W) : 360, 640
+BLOCK SIZE : 8
+PIXEL ACC : 1
+SEARCH RANGE : 15
+SEARCH PROCEDURE : exhaustive search
+SEARCH CRITERIA : SAD
+PSNR : 26.600383 

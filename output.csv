@@ -1,0 +1,19 @@
+now_time,running_time,prev_frame_path,refer_frame_path,frame_height,frame_width,block_size,pixel_acc,search_range,search_procedure,search_criteria,PSNR
+20200927171519,14.160207748413086,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,8,1,7,exhaustive search,SAD,27.391816645839185
+20200927171520,0.8597335815429688,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,8,1,7,three step search,SAD,25.90376294505862
+20200927171604,43.62448072433472,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,8,1,15,exhaustive search,SAD,30.801270939725626
+20200927171605,0.931016206741333,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,8,1,15,three step search,SAD,25.778469005639955
+20200927171730,85.36694502830505,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,8,1,23,exhaustive search,SAD,32.85510257016256
+20200927171731,0.8796811103820801,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,8,1,23,three step search,SAD,25.46356291161654
+20200927171740,8.774296045303345,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,16,1,7,exhaustive search,SAD,26.640199746941686
+20200927171740,0.2743709087371826,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,16,1,7,three step search,SAD,24.833854129930565
+20200927171759,19.35738182067871,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,16,1,15,exhaustive search,SAD,28.78661896225224
+20200927171800,0.27530574798583984,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,16,1,15,three step search,SAD,23.86985119171448
+20200927171834,34.64320373535156,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,16,1,23,exhaustive search,SAD,29.681153385216852
+20200927171835,0.2702770233154297,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,16,1,23,three step search,SAD,23.63192666584734
+20200927171844,9.354760885238647,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,32,1,7,exhaustive search,SAD,25.228733728310303
+20200927171844,0.13963747024536133,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,32,1,7,three step search,SAD,22.831649952582957
+20200927171901,16.72549295425415,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,32,1,15,exhaustive search,SAD,27.171901155392572
+20200927171901,0.13866090774536133,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,32,1,15,three step search,SAD,22.484831004897995
+20200927171927,26.465051651000977,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,32,1,23,exhaustive search,SAD,27.746908183525104
+20200927171928,0.13512110710144043,D:\BlockMatching_video_intp\data\frame\frame1110.jpg,D:\BlockMatching_video_intp\data\frame\frame1115.jpg,360,640,32,1,23,three step search,SAD,22.41414632572568
