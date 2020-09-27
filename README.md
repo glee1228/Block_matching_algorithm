@@ -34,7 +34,7 @@ interpolated frame(predicted frame) | motion field
 
 <br/>
 
-**Table 1.** PSNR and reference time according to Search Window and Search Method
+**Table 1.** PSNR and inference time according to Search Window Size and Search Method
 
 Block size(pixel)	| Pixel accuracy	| Search range(pixel) |	Search method	 | PSNR(db) |	Inference Time(sec)
 ---- | ---- | ---- | ---- | ----  |----
